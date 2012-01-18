@@ -1,0 +1,16 @@
+{
+    "name": "express-ajax",
+    "homepage": "http://github.com/konteck/express-ajax",
+    "author": {
+        "name": "Alex Movsisyan",
+        "url": "http://github.com/konteck/express-ajax"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/konteck/express-ajax"
+    },
+    "description": "Handle AJAX requests automatically",
+    "keywords": ["ajax", "xhr", "view", "layout"],
+    "version": "1.0.1",
+    "main": "./lib/index.js"
+}
