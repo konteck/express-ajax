@@ -1,4 +1,9 @@
-# express-ajax
+========================
+express-ajax |travis_status|
+========================
+
+.. |travis_status| image:: https://secure.travis-ci.org/konteck/express-ajax.png
+   :target: http://travis-ci.org/konteck/express-ajax
 
 Automatically AJAX requests handling middleware for Express framework
 
@@ -22,4 +27,4 @@ app.configure(function() {
 
 ```
 
-That's it
+That's it!
