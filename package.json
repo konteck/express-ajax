@@ -11,6 +11,6 @@
     },
     "description": "Handle AJAX requests automatically",
     "keywords": ["ajax", "xhr", "view", "layout"],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "./lib/index.js"
 }

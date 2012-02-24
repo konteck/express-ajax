@@ -6,7 +6,8 @@ module.exports = function (req, res, next) {
             options = {}
         }
 
-        if (req.header('x-requested-with') == 'XMLHttpRequest') {
+        if (req.header('x-requested-with') == 'XMLHttpRequest'
+                && options.forceLayout != true) {
             options.layout = false;
         }
 
